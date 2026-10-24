@@ -14,7 +14,6 @@ Also the **Telos** toolchain that builds it: Choros, Kinetoglyphs, Katabasis, an
 
 ## The catalogue, here
 
-- [WARM](https://github.com/aindriahhn/WARM) — the shipped game, standard build
 - [CALORIS-AI-READY-SOUND-ENGINE](https://github.com/aindriahhn/CALORIS-AI-READY-SOUND-ENGINE) — music engine and composition tool
 - [Kinetoglyphs](https://github.com/aindriahhn/Kinetoglyphs) — ANSI/cell animation and sprite authoring
 - [Choros](https://github.com/aindriahhn/Choros) — scene and space authoring
